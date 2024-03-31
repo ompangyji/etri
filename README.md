@@ -51,4 +51,4 @@
 - 그룹3(중평량)
   #13, #15
 
-:point_right: [노션](https://www.notion.so/01c9f82a89e6456cab424921452a8df1) 자세한 내용
+:point_right: [노션](https://www.notion.so/01c9f82a89e6456cab424921452a8df1?pvs=4) 자세한 내용
